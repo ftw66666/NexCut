@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_photo.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_photo.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.opencv.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/raw_abcd.enc.flat",
+        "source": "com.example.opencv.app-main-34:/raw/abcd.enc"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_imageedit.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_imageedit.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_device_control.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_device_control.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.opencv.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_main.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/raw_test.enc.flat",
+        "source": "com.example.opencv.app-main-34:/raw/test.enc"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.opencv.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.opencv.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_device_info.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_device_info.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_device_infoitem.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/device_infoitem.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/drawable_btn1.xml.flat",
+        "source": "com.example.opencv.app-main-34:/drawable/btn1.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_device_list.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/device_list.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/layout_activity_device.xml.flat",
+        "source": "com.example.opencv.app-main-34:/layout/activity_device.xml"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.opencv.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.opencv.app-release-33:/xml_filepaths.xml.flat",
+        "source": "com.example.opencv.app-main-34:/xml/filepaths.xml"
+    }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="axis_numbers">
+        <item>轴0</item>
+        <item>轴1</item>
+        <item>轴2</item>
+        <item>轴3</item>
+    </string-array>
+    <color name="actionbar_title_color">@android:color/white</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF808080</color>
+    <color name="light_black">#FF1E1E1E</color>
+    <color name="main">#63C3FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="header_height">250dp</dimen>
+    <dimen name="header_logo_size">100dp</dimen>
+    <string name="CAMERA">拍摄</string>
+    <string name="EditImage">编辑</string>
+    <string name="GALLERY">相册</string>
+    <string name="Prefab">预设</string>
+    <string name="app_name">OpenCV</string>
+    <string name="company_name">au3tech</string>
+    <string name="noboringactionbar_title">Beautiful picture</string>
+    <string name="user">user</string>
+    <style name="Base.Theme.OpenCV" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.OpenCV" parent="Base.Theme.OpenCV"/>
+</resources>

@@ -1,0 +1,231 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.opencv"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10    <!-- 添加必要的权限 -->
+11    <uses-feature
+11-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.camera"
+12-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:7:9-47
+13        android:required="true" />
+13-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:8:9-33
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:10:5-65
+15-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:10:22-62
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:11:5-81
+16-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:12:5-80
+17-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:13:5-79
+18-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:14:5-81
+19-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:15:5-76
+20-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:15:22-73
+21    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+21-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:16:5-76
+21-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:16:22-73
+22    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
+22-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:17:5-78
+22-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:17:22-75
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:18:5-67
+23-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:18:22-64
+24    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+24-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:19:5-84
+24-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:19:22-81
+25    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+25-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:20:5-71
+25-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:20:22-68
+26    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+26-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:21:5-75
+26-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:21:22-72
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:22:5-79
+27-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:22:22-76
+28
+29    <queries>
+29-->[:opencv] D:\AndroidProject\OpenCV\opencv\opencv\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:5-17:15
+30        <intent>
+30-->[:opencv] D:\AndroidProject\OpenCV\opencv\opencv\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:9-16:18
+31            <action android:name="android.media.action.IMAGE_CAPTURE" />
+31-->[:opencv] D:\AndroidProject\OpenCV\opencv\opencv\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:13-73
+31-->[:opencv] D:\AndroidProject\OpenCV\opencv\opencv\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:21-70
+32        </intent>
+33    </queries>
+34
+35    <permission
+35-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+36        android:name="com.example.opencv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+36-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+37        android:protectionLevel="signature" />
+37-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+38
+39    <uses-permission android:name="com.example.opencv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+39-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+39-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+40
+41    <application
+41-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:24:5-67:19
+42        android:allowBackup="true"
+42-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:25:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.13.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6495effe33bc68e5479a0d7f56586946\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+44        android:dataExtractionRules="@xml/data_extraction_rules"
+44-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:26:9-65
+45        android:extractNativeLibs="false"
+46        android:fullBackupContent="@xml/backup_rules"
+46-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:27:9-54
+47        android:hardwareAccelerated="true"
+47-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:28:9-43
+48        android:icon="@mipmap/ic_launcher"
+48-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:29:9-43
+49        android:label="@string/app_name"
+49-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:30:9-41
+50        android:largeHeap="true"
+50-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:31:9-33
+51        android:roundIcon="@mipmap/ic_launcher_round"
+51-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:32:9-54
+52        android:supportsRtl="true"
+52-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:33:9-35
+53        android:theme="@style/Theme.OpenCV" >
+53-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:34:9-44
+54        <activity
+54-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:36:9-38:40
+55            android:name="com.example.opencv.device.DeviceInfoActivity"
+55-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:37:13-54
+56            android:exported="false" />
+56-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:38:13-37
+57        <!-- 配置 FileProvider -->
+58        <provider
+58-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:40:9-48:20
+59            android:name="androidx.core.content.FileProvider"
+59-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:41:13-62
+60            android:authorities="com.example.fileprovider"
+60-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:42:13-59
+61            android:exported="false"
+61-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:43:13-37
+62            android:grantUriPermissions="true" >
+62-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:44:13-47
+63            <meta-data
+63-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:45:13-47:53
+64                android:name="android.support.FILE_PROVIDER_PATHS"
+64-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:46:17-67
+65                android:resource="@xml/filepaths" />
+65-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:47:17-50
+66        </provider> <!-- 启动 Activity -->
+67        <activity
+67-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:49:9-51:40
+68            android:name="com.example.opencv.device.DeviceActivity"
+68-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:50:13-50
+69            android:exported="false" />
+69-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:51:13-37
+70        <activity
+70-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:52:9-54:40
+71            android:name="com.example.opencv.device.device_Control"
+71-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:53:13-50
+72            android:exported="false" />
+72-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:54:13-37
+73        <activity
+73-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:55:9-57:48
+74            android:name="com.example.opencv.image.ImageEditActivity"
+74-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:56:13-52
+75            android:exported="true" />
+75-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:57:13-36
+76        <activity
+76-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:58:9-66:20
+77            android:name="com.example.opencv.MainActivity"
+77-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:59:13-41
+78            android:exported="true" >
+78-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:60:13-36
+79            <intent-filter>
+79-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:61:13-65:29
+80                <action android:name="android.intent.action.MAIN" />
+80-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:62:17-69
+80-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:62:25-66
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:64:17-77
+82-->D:\AndroidProject\OpenCV\opencv\app\src\main\AndroidManifest.xml:64:27-74
+83            </intent-filter>
+84        </activity>
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+88            android:authorities="com.example.opencv.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\3aaddcfc156a2d1ed2d6a68aa6d081ca\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\2916fb0100e2a44c3d80311a0d4e0dbf\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\2916fb0100e2a44c3d80311a0d4e0dbf\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\2916fb0100e2a44c3d80311a0d4e0dbf\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+98                android:value="androidx.startup" />
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+99        </provider>
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6fe1f5c38da4202eb7229f6d6e2b0e4f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>

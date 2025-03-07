@@ -1,0 +1,5 @@
+com.example.opencv.test.app-core-1.6.1-0 C:\Users\Lenovo\.gradle\caches\8.10.2\transforms\6ffe37348ed3336d20d1f855bba25267\transformed\core-1.6.1\res
+com.example.opencv.test.app-androidTest-1 D:\AndroidProject\OpenCV\opencv\app\build\generated\res\resValues\androidTest\debug
+com.example.opencv.test.app-mergeDebugAndroidTestResources-2 D:\AndroidProject\OpenCV\opencv\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.opencv.test.app-mergeDebugAndroidTestResources-3 D:\AndroidProject\OpenCV\opencv\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.opencv.test.app-debugAndroidTest-4 D:\AndroidProject\OpenCV\opencv\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

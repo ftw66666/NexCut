@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_photo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\raw_abcd.enc.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\raw\\abcd.enc"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\anim_anim_scale_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\anim\\anim_scale_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_picture0.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\picture0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\anim_anim_scale_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\anim\\anim_scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_gallery_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\gallery_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_printer_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\printer_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_grayspot.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\grayspot.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_picture1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\picture1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_camera_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\camera_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_user_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\xml_filepaths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_file_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\file_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_greenspot.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\greenspot.png"
+    },
+    {
+        "merged": "com.example.opencv.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.opencv.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_device_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_device_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_banner.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_device.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_btn1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_imageedit.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_imageedit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\raw_test.enc.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\raw\\test.enc"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_activity_device_control.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\activity_device_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_pics_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\pics_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_setting_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\setting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_right_arrow_icon_s.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\right_arrow_icon_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\drawable_printer_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\drawable\\printer_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-debug-33:\\layout_device_infoitem.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.10.2\\com.example.opencv.app-main-35:\\layout\\device_infoitem.xml"
+    }
+]
